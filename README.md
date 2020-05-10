@@ -1,4 +1,4 @@
-## Controlling a radio controlled car from Window XP  
+## Controlling a radio controlled car from Laptop  
 
 In this project I wrote a windows user interface and arduino code to control a radio controlled car.
 
